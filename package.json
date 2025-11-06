@@ -1,0 +1,12 @@
+{
+  "name": "nestore-slug-migration",
+  "version": "1.0.0",
+  "description": "Scripts pour migrer les slugs de Linguana vers Webflow",
+  "main": "crawler-linguana-slugs.js",
+  "scripts": {
+    "crawl": "node crawler-linguana-slugs.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.11.0"
+  }
+}
