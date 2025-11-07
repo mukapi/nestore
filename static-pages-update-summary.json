@@ -1,0 +1,144 @@
+{
+  "timestamp": "2025-11-06T17:53:44.231Z",
+  "localeId": "690b2acd93972e10247b6eaa",
+  "localeName": "English (EN)",
+  "totalPages": 24,
+  "updated": 22,
+  "skipped": 2,
+  "errors": [],
+  "skippedPages": [
+    {
+      "pageId": "5fdfeed248b609b111c2dd74",
+      "pageTitle": "search",
+      "reason": "Utility page - slugs cannot be updated"
+    },
+    {
+      "pageId": "5fdfeed248b609cbaac2dd8f",
+      "pageTitle": "contact",
+      "reason": "Slug already correct (conflict)"
+    }
+  ],
+  "updatedPages": [
+    {
+      "pageId": "5fdfeed248b6090958c2dd79",
+      "pageTitle": "guide",
+      "newSlug": "guidelines-pop-up-shops"
+    },
+    {
+      "pageId": "5fdfeed248b6092c79c2dd7e",
+      "pageTitle": "tags",
+      "newSlug": "tags"
+    },
+    {
+      "pageId": "5fdfeed248b60905f8c2dd89",
+      "pageTitle": "boutiques",
+      "newSlug": "popup-shops"
+    },
+    {
+      "pageId": "5fdfeed248b609eaccc2dd8c",
+      "pageTitle": "qui-sommes-nous",
+      "newSlug": "who-are-we"
+    },
+    {
+      "pageId": "5fdfeed248b6094cacc2dd8e",
+      "pageTitle": "references",
+      "newSlug": "pop-up-stores-references"
+    },
+    {
+      "pageId": "619d3235e4b0ccad1bfc6d69",
+      "pageTitle": "metier",
+      "newSlug": "retail-expert"
+    },
+    {
+      "pageId": "641c551a5d3f9c763b5a92dc",
+      "pageTitle": "contact-demande-envoyee",
+      "newSlug": "contact-request-send"
+    },
+    {
+      "pageId": "6487801cf909d40a404dc038",
+      "pageTitle": "estimation-performance-pop-up-store",
+      "newSlug": "pop-up-store-performance-estimation"
+    },
+    {
+      "pageId": "686bdf406484817fc931b44f",
+      "pageTitle": "plan-du-site",
+      "newSlug": "plan-du-site"
+    },
+    {
+      "pageId": "68e779d945c120f0b9fdd1de",
+      "pageTitle": "contact-proprietaires",
+      "newSlug": "contact-proprietaires"
+    },
+    {
+      "pageId": "5fdfeed248b609f790c2dd77",
+      "pageTitle": "blog",
+      "newSlug": "blog"
+    },
+    {
+      "pageId": "6870c2a6356d3ad838039b2a",
+      "pageTitle": "marais",
+      "newSlug": "neighborhoods-marais",
+      "note": "Webflow converted slash to dash"
+    },
+    {
+      "pageId": "6870c31bc53776c9e89b71a1",
+      "pageTitle": "saint-germain",
+      "newSlug": "neighborhoods-saint-germain",
+      "note": "Webflow converted slash to dash"
+    },
+    {
+      "pageId": "6870c35c0c866ee5736fc974",
+      "pageTitle": "montmartre",
+      "newSlug": "neighborhoods-montmartre",
+      "note": "Webflow converted slash to dash"
+    },
+    {
+      "pageId": "6870c3943b8516426a95ed24",
+      "pageTitle": "palais-royal",
+      "newSlug": "quartiers-palais-royal",
+      "note": "Webflow converted slash to dash"
+    },
+    {
+      "pageId": "6870c3ea3dd20743b681b9a5",
+      "pageTitle": "showrooms",
+      "newSlug": "showrooms"
+    },
+    {
+      "pageId": "68f62f9ebbe9b232b5605ba1",
+      "pageTitle": "canal-saint-martin",
+      "newSlug": "neighborhoods-canal-saint-martin",
+      "note": "Webflow converted slash to dash"
+    },
+    {
+      "pageId": "6870c425ac1ae0fab371f8e0",
+      "pageTitle": "lille",
+      "newSlug": "french-cities-lille",
+      "note": "Webflow converted slash to dash"
+    },
+    {
+      "pageId": "68710e820352e8a69bafdecd",
+      "pageTitle": "lyon",
+      "newSlug": "french-cities-lyon",
+      "note": "Webflow converted slash to dash"
+    },
+    {
+      "pageId": "68710e9bf8f2920835aa6d16",
+      "pageTitle": "marseille",
+      "newSlug": "french-cities-marseille",
+      "note": "Webflow converted slash to dash"
+    },
+    {
+      "pageId": "68710ec374824844f6ef20d7",
+      "pageTitle": "nantes",
+      "newSlug": "french-cities-nantes",
+      "note": "Webflow converted slash to dash"
+    },
+    {
+      "pageId": "68710f0d45b90f72dffdc3d9",
+      "pageTitle": "bordeaux",
+      "newSlug": "french-cities-bordeaux",
+      "note": "Webflow converted slash to dash"
+    }
+  ],
+  "note": "Webflow converts slashes (/) to dashes (-) in page slugs. Child pages inherit parent folder path prefix."
+}

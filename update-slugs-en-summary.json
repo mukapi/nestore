@@ -1,0 +1,402 @@
+{
+  "timestamp": "2025-11-06T17:20:28.065Z",
+  "collectionId": "5fdfeed248b60944ecc2dd90",
+  "collectionName": "Articles",
+  "localeId": "690b2acd93972e10247b6eb1",
+  "localeName": "English (EN)",
+  "totalUpdated": 56,
+  "updatedItems": [
+    {
+      "id": "6772695a18e193558c6bd153",
+      "name": "Pop-up store : les meilleures initiatives retail de cette fin d’année",
+      "slug": "paris-best-pop-up-retail",
+      "lastUpdated": "2025-11-06T17:20:02.217Z",
+      "lastPublished": "2025-11-06T17:20:02.217Z"
+    },
+    {
+      "id": "6750162ba84d18f683da4174",
+      "name": "IKEA réinvente son sac bleu en pop-up store à Londres",
+      "slug": "ikea-frakta-experience-pop-up-london",
+      "lastUpdated": "2025-11-06T17:20:02.226Z",
+      "lastPublished": "2025-11-06T17:20:02.226Z"
+    },
+    {
+      "id": "630e2541054c1c49dc791459",
+      "name": "Comment construire un parcours client omnicanal ?",
+      "slug": "building-an-omnichannel-customer-journey",
+      "lastUpdated": "2025-11-06T17:20:02.210Z",
+      "lastPublished": "2025-11-06T17:20:02.210Z"
+    },
+    {
+      "id": "672361e4069aea070fa40575",
+      "name": "Shein à Marseille : un pop up store qui fait débat",
+      "slug": "shein-pop-up-marseille-controversy",
+      "lastUpdated": "2025-11-06T17:20:02.242Z",
+      "lastPublished": "2025-11-06T17:20:02.242Z"
+    },
+    {
+      "id": "66cd8b848d8ee4b804f92a24",
+      "name": "Louer un showroom pendant la Fashion Week 2025",
+      "slug": "renting-showroom-for-paris-fashion-week",
+      "lastUpdated": "2025-11-06T17:20:02.231Z",
+      "lastPublished": "2025-11-06T17:20:02.231Z"
+    },
+    {
+      "id": "62ea6d81bc58bd81789e60c6",
+      "name": "Guide du NPS : définition, calcul et interprétation ",
+      "slug": "understanding-nps",
+      "lastUpdated": "2025-11-06T17:20:02.219Z",
+      "lastPublished": "2025-11-06T17:20:02.219Z"
+    },
+    {
+      "id": "6177eae3ffd5913b94dab6e0",
+      "name": "Les 8 meilleurs plugin Shopify pour une marque unifiée",
+      "slug": "shopify-plugin-physical-retail",
+      "lastUpdated": "2025-11-06T17:20:02.228Z",
+      "lastPublished": "2025-11-06T17:20:02.228Z"
+    },
+    {
+      "id": "61922a26f3028ab6ea20c31c",
+      "name": "Mesurer la satisfaction client en point de vente",
+      "slug": "measuring-in-store-customer-satisfaction",
+      "lastUpdated": "2025-11-06T17:20:02.212Z",
+      "lastPublished": "2025-11-06T17:20:02.212Z"
+    },
+    {
+      "id": "6759b719a88e388bb64e7848",
+      "name": "Clients mystères : une plongée au cœur de l’expérience client retail",
+      "slug": "mystery-shoppers-retail-experience",
+      "lastUpdated": "2025-11-06T17:20:02.230Z",
+      "lastPublished": "2025-11-06T17:20:02.230Z"
+    },
+    {
+      "id": "631b2fd03f3029610279d390",
+      "name": "Comment bien choisir son emplacement commercial ?",
+      "slug": "chow-to-choose-your-retail-location",
+      "lastUpdated": "2025-11-06T17:20:02.216Z",
+      "lastPublished": "2025-11-06T17:20:02.216Z"
+    },
+    {
+      "id": "674d99b1070e854f47e70fe8",
+      "name": "Le Black Friday : entre promos et appels au boycott",
+      "slug": "black-friday-deals-vs-boycotts",
+      "lastUpdated": "2025-11-06T17:20:02.251Z",
+      "lastPublished": "2025-11-06T17:20:02.251Z"
+    },
+    {
+      "id": "62221fe5a06c83a283593ae6",
+      "name": " 8 solutions pour collecter des données client en magasin",
+      "slug": "how-to-collect-customer-data-in-store",
+      "lastUpdated": "2025-11-06T17:20:02.245Z",
+      "lastPublished": "2025-11-06T17:20:02.245Z"
+    },
+    {
+      "id": "646b178189f4433776108445",
+      "name": "Comment communiquer efficacement sur son pop-up store ?",
+      "slug": "steps-successful-pop-up-store",
+      "lastUpdated": "2025-11-06T17:20:02.249Z",
+      "lastPublished": "2025-11-06T17:20:02.249Z"
+    },
+    {
+      "id": "68711c24c0e292e8848913ba",
+      "name": "Shein sanctionné par la CNIL : les leçons RGPD pour les marques retail",
+      "slug": "shein-sanctioned-in-france",
+      "lastUpdated": "2025-11-06T17:20:02.244Z",
+      "lastPublished": "2025-11-06T17:20:02.244Z"
+    },
+    {
+      "id": "680f93d4e60e4d77300b2f6a",
+      "name": "Pourquoi ouvrir un pop-up store à Marseille ?",
+      "slug": "why-open-pop-up-store-in-marseille",
+      "lastUpdated": "2025-11-06T17:20:02.252Z",
+      "lastPublished": "2025-11-06T17:20:02.252Z"
+    },
+    {
+      "id": "630e319af5825c96c6e9960e",
+      "name": "Stratégie retail : le pop-up store comme outil de test and learn",
+      "slug": "retail-strategy-pop-up-store-as-a-test-and-learn-tool",
+      "lastUpdated": "2025-11-06T17:20:02.248Z",
+      "lastPublished": "2025-11-06T17:20:02.248Z"
+    },
+    {
+      "id": "60b4a4d7b8ee6f8615b68765",
+      "name": "Interview Almé : construire une marque au service de ses clients",
+      "slug": "interview-alme-building-brand-around-customers",
+      "lastUpdated": "2025-11-06T17:20:02.253Z",
+      "lastPublished": "2025-11-06T17:20:02.253Z"
+    },
+    {
+      "id": "64afd04a8817dc7b8ea3bc88",
+      "name": "Flagship Zara Champs-Elysées : l’innovation au service de l’expérience",
+      "slug": "flagship-zara-champs-elysees-innovation-customer-experience",
+      "lastUpdated": "2025-11-06T17:20:02.259Z",
+      "lastPublished": "2025-11-06T17:20:02.259Z"
+    },
+    {
+      "id": "66c754747118c37f256c2e9e",
+      "name": "Louer une galerie d’art à Paris : la tendance des espaces éphémères",
+      "slug": "rent-art-gallery",
+      "lastUpdated": "2025-11-06T17:20:02.257Z",
+      "lastPublished": "2025-11-06T17:20:02.257Z"
+    },
+    {
+      "id": "6363fda1afbb0e882a3c9c35",
+      "name": "Comment optimiser son merchandising en boutique ?",
+      "slug": "how-to-optimize-merchandising",
+      "lastUpdated": "2025-11-06T17:20:02.256Z",
+      "lastPublished": "2025-11-06T17:20:02.256Z"
+    },
+    {
+      "id": "64784cb8c5f8d855d4bc8fe4",
+      "name": "Showrooms & pop-up stores incontournables de la Fashion Week de Paris",
+      "slug": "mens-fashion-week-pop-up-showroom",
+      "lastUpdated": "2025-11-06T17:20:02.262Z",
+      "lastPublished": "2025-11-06T17:20:02.262Z"
+    },
+    {
+      "id": "67d81cb36dee4a857c1bc8c6",
+      "name": "Vinted : un premier pop-up store pour gagner le luxe de seconde main !",
+      "slug": "vinted-pop-up-stores",
+      "lastUpdated": "2025-11-06T17:20:02.261Z",
+      "lastPublished": "2025-11-06T17:20:02.261Z"
+    },
+    {
+      "id": "684aeb388147ad5490a98eed",
+      "name": "Cafés pop-up store : la nouvelle obsession des marques de luxe",
+      "slug": "luxury-brands-pop-up-cafes",
+      "lastUpdated": "2025-11-06T17:20:02.267Z",
+      "lastPublished": "2025-11-06T17:20:02.267Z"
+    },
+    {
+      "id": "66ed7792f50c9bb1633335e0",
+      "name": "Marseille : pourquoi est-elle attractive pour les pop-up stores ?",
+      "slug": "marseille-attractive-retail-hub",
+      "lastUpdated": "2025-11-06T17:20:02.265Z",
+      "lastPublished": "2025-11-06T17:20:02.265Z"
+    },
+    {
+      "id": "67935fe1c7bb094e260da742",
+      "name": "Le pop-up des Spurs : une expérience NBA unique au cœur du Marais",
+      "slug": "spurs-pop-up-store-in-paris",
+      "lastUpdated": "2025-11-06T17:20:02.264Z",
+      "lastPublished": "2025-11-06T17:20:02.264Z"
+    },
+    {
+      "id": "649e8d1615f5e2742522bac1",
+      "name": "Le pop-up store : une solution face à l’explosion des coûts",
+      "slug": "how-pop-up-stores-help-reduce-online-acquisition-costs",
+      "lastUpdated": "2025-11-06T17:20:02.268Z",
+      "lastPublished": "2025-11-06T17:20:02.268Z"
+    },
+    {
+      "id": "67bc3a36be09f25e40fd2e67",
+      "name": "Marseille : les acteurs du textile unis contre l’ultra fast fashion",
+      "slug": "marseille-localshops-united-against-fast-fashion",
+      "lastUpdated": "2025-11-06T17:20:02.276Z",
+      "lastPublished": "2025-11-06T17:20:02.276Z"
+    },
+    {
+      "id": "6704ffa28576da228d213e63",
+      "name": "Le vin fait son show dans les pop-up stores de la capitale",
+      "slug": "wine-pop-up-stores-in-paris",
+      "lastUpdated": "2025-11-06T17:20:02.271Z",
+      "lastPublished": "2025-11-06T17:20:02.271Z"
+    },
+    {
+      "id": "66c5c1b74fd11a0f1d1fdbc5",
+      "name": "Comment Léna Mahfouf casse les codes du pop up store",
+      "slug": "lena-mahfouf-pop-up-store-strategy",
+      "lastUpdated": "2025-11-06T17:20:02.273Z",
+      "lastPublished": "2025-11-06T17:20:02.273Z"
+    },
+    {
+      "id": "63a333a5c87b606006a5213b",
+      "name": "Wholesale vs retail : comment choisir ?",
+      "slug": "wholesale-or-retail",
+      "lastUpdated": "2025-11-06T17:20:02.270Z",
+      "lastPublished": "2025-11-06T17:20:02.270Z"
+    },
+    {
+      "id": "5fdfeed248b6094031c2e077",
+      "name": "L'Atelier éphémère Le Nôtre - Interview ",
+      "slug": "interview-lenotre-ephemeral-workshop",
+      "lastUpdated": "2025-11-06T17:20:13.798Z",
+      "lastPublished": "2025-11-06T17:20:13.798Z"
+    },
+    {
+      "id": "5fdfeed248b609faccc2e126",
+      "name": "Les pop up au rendez-vous dans les hôtels de luxe",
+      "slug": "pop-up-hotels",
+      "lastUpdated": "2025-11-06T17:20:13.819Z",
+      "lastPublished": "2025-11-06T17:20:13.819Z"
+    },
+    {
+      "id": "5fdfeed248b609f856c2dde5",
+      "name": "Comment mettre en avant son service de personnalisation en boutique ?",
+      "slug": "customization-in-store-service-retail",
+      "lastUpdated": "2025-11-06T17:20:13.817Z",
+      "lastPublished": "2025-11-06T17:20:13.817Z"
+    },
+    {
+      "id": "5fdfeed248b609b0e7c2ddf9",
+      "name": "Aménager sa boutique éco-responsable : nos conseils",
+      "slug": "design-eco-friendly-store",
+      "lastUpdated": "2025-11-06T17:20:13.815Z",
+      "lastPublished": "2025-11-06T17:20:13.815Z"
+    },
+    {
+      "id": "5fdfeed248b609addbc2e162",
+      "name": "La location de mobilier, le choix de l’éphémère durable ",
+      "slug": "furniture-rental-the-sustainable-ephemeral-choice",
+      "lastUpdated": "2025-11-06T17:20:13.806Z",
+      "lastPublished": "2025-11-06T17:20:13.806Z"
+    },
+    {
+      "id": "5fdfeed248b6097919c2ddd1",
+      "name": "Ce que le retail peut apprendre de la relation-client en Palace",
+      "slug": "client-experience-luxury-retail-training",
+      "lastUpdated": "2025-11-06T17:20:13.810Z",
+      "lastPublished": "2025-11-06T17:20:13.810Z"
+    },
+    {
+      "id": "607940c71e417a064b96d3c4",
+      "name": "Cabaia : construire sa marque avec une stratégie physique et digitale",
+      "slug": "interview-cabaia-omnichannel-brand-building",
+      "lastUpdated": "2025-11-06T17:20:13.800Z",
+      "lastPublished": "2025-11-06T17:20:13.800Z"
+    },
+    {
+      "id": "5fdfeed248b609bfabc2e160",
+      "name": "L'homme, avenir du gender marketing ?",
+      "slug": "gender-marketing",
+      "lastUpdated": "2025-11-06T17:20:13.820Z",
+      "lastPublished": "2025-11-06T17:20:13.820Z"
+    },
+    {
+      "id": "5fdfeed248b6090e47c2e149",
+      "name": "Marque responsable : 6 marques upcycling mode et déco",
+      "slug": "upcycling-brands",
+      "lastUpdated": "2025-11-06T17:20:13.804Z",
+      "lastPublished": "2025-11-06T17:20:13.804Z"
+    },
+    {
+      "id": "5fdfeed248b6091212c2e156",
+      "name": "Interview By Charlot : les plantes personnalisées",
+      "slug": "interview-founders-by-charlot",
+      "lastUpdated": "2025-11-06T17:20:13.808Z",
+      "lastPublished": "2025-11-06T17:20:13.808Z"
+    },
+    {
+      "id": "5fdfeed248b609135ec2e0a4",
+      "name": "La cave à vin Lidl Pops en centre-ville ",
+      "slug": "lidl-wine-cellar",
+      "lastUpdated": "2025-11-06T17:20:13.825Z",
+      "lastPublished": "2025-11-06T17:20:13.825Z"
+    },
+    {
+      "id": "5fdfeed248b60924fec2e15b",
+      "name": "Déco intérieur : 5 marques tendances ",
+      "slug": "interior-trendy-design-brands",
+      "lastUpdated": "2025-11-06T17:20:13.822Z",
+      "lastPublished": "2025-11-06T17:20:13.822Z"
+    },
+    {
+      "id": "5fdfeed248b6092ccdc2e072",
+      "name": "Tranoï ouvert à tous ? Du jamais vu !",
+      "slug": "tranoi-fashion-event-open-to-public",
+      "lastUpdated": "2025-11-06T17:20:13.829Z",
+      "lastPublished": "2025-11-06T17:20:13.829Z"
+    },
+    {
+      "id": "5fdfeed248b6098484c2e0e9",
+      "name": "La personnalisation au cœur de l'offre des marques",
+      "slug": "custom-made-at-the-core-of-brand-strategy",
+      "lastUpdated": "2025-11-06T17:20:13.827Z",
+      "lastPublished": "2025-11-06T17:20:13.827Z"
+    },
+    {
+      "id": "5fdfeed248b60920cdc2e120",
+      "name": "La nouvelle boutique libre service Sezane",
+      "slug": "the-new-sezane-store",
+      "lastUpdated": "2025-11-06T17:20:13.834Z",
+      "lastPublished": "2025-11-06T17:20:13.834Z"
+    },
+    {
+      "id": "5fdfeed248b6095aa2c2e155",
+      "name": "Est-ce qu’une marque peut être féministe ?",
+      "slug": "can-brand-be-feminist",
+      "lastUpdated": "2025-11-06T17:20:13.832Z",
+      "lastPublished": "2025-11-06T17:20:13.832Z"
+    },
+    {
+      "id": "5fdfeed248b6097ce6c2e09e",
+      "name": "La leçon marketing de Glossier",
+      "slug": "what-brands-can-learn-from-glossier",
+      "lastUpdated": "2025-11-06T17:20:13.830Z",
+      "lastPublished": "2025-11-06T17:20:13.830Z"
+    },
+    {
+      "id": "5fdfeed248b60933e6c2e150",
+      "name": "Féministe : 5 marques engagées pour les femmes",
+      "slug": "feminist-brands",
+      "lastUpdated": "2025-11-06T17:20:13.835Z",
+      "lastPublished": "2025-11-06T17:20:13.835Z"
+    },
+    {
+      "id": "5fdfeed248b6096b31c2e14d",
+      "name": "Les médias : histoire d’une fulgurante ascension",
+      "slug": "how-media-became-so-powerful",
+      "lastUpdated": "2025-11-06T17:20:13.839Z",
+      "lastPublished": "2025-11-06T17:20:13.839Z"
+    },
+    {
+      "id": "5fdfeed248b60964cac2e14f",
+      "name": "Sélection de 5 marques bien-être pour prendre soin de vous",
+      "slug": "wellness-brands-pop-up-store-daily-selfcare",
+      "lastUpdated": "2025-11-06T17:20:13.837Z",
+      "lastPublished": "2025-11-06T17:20:13.837Z"
+    },
+    {
+      "id": "5fdfeed248b609f262c2e08f",
+      "name": "Espace créateurs au 26 rue des Batignolles",
+      "slug": "designers-retail-space-26-rue-de-batignolles",
+      "lastUpdated": "2025-11-06T17:20:13.841Z",
+      "lastPublished": "2025-11-06T17:20:13.841Z"
+    },
+    {
+      "id": "5fdfeed248b609455bc2e087",
+      "name": "La Chine : trend setter dans le monde du retail ?",
+      "slug": "china-leading-retail-trends-worldwide",
+      "lastUpdated": "2025-11-06T17:20:13.842Z",
+      "lastPublished": "2025-11-06T17:20:13.842Z"
+    },
+    {
+      "id": "5fdfeed248b6099726c2e0fe",
+      "name": "IKEA City à Paris, un concept en évolution",
+      "slug": "ikea-city-in-paris",
+      "lastUpdated": "2025-11-06T17:20:13.849Z",
+      "lastPublished": "2025-11-06T17:20:13.849Z"
+    },
+    {
+      "id": "5fdfeed248b6096d80c2e093",
+      "name": "Pop-up store Fuze Tea dédié à la déconnexion et à la détente ",
+      "slug": "fuze-tea-pop-up-store-relaxation-digital-detox",
+      "lastUpdated": "2025-11-06T17:20:13.844Z",
+      "lastPublished": "2025-11-06T17:20:13.844Z"
+    },
+    {
+      "id": "5fdfeed248b60996eec2e12c",
+      "name": "Comment relancer le commerce physique en France ?",
+      "slug": "reviving-physical-retail-in-france",
+      "lastUpdated": "2025-11-06T17:20:13.846Z",
+      "lastPublished": "2025-11-06T17:20:13.846Z"
+    },
+    {
+      "id": "5fdfeed248b609f39cc2e10e",
+      "name": "Comment Lidl se transforme tout en préservant sa clientèle ?",
+      "slug": "lidl-reinvents-its-retail-strategy",
+      "lastUpdated": "2025-11-06T17:20:13.847Z",
+      "lastPublished": "2025-11-06T17:20:13.847Z"
+    }
+  ]
+}

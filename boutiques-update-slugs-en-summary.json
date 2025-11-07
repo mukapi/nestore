@@ -1,0 +1,73 @@
+{
+  "timestamp": "2025-11-06T17:33:09.541Z",
+  "collectionId": "5fdfeed248b6099cf9c2dda8",
+  "collectionName": "Boutiques Paris",
+  "localeId": "690b2acd93972e10247b6eb1",
+  "localeName": "English (EN)",
+  "totalUpdated": 9,
+  "updatedItems": [
+    {
+      "id": "6245d4c7112afe004dfd4802",
+      "name": "9 rue du marché Saint-Honoré",
+      "slug": "9-rue-marche-saint-honore-paris",
+      "lastUpdated": "2025-11-06T17:32:55.830Z",
+      "lastPublished": "2025-11-06T17:32:55.830Z"
+    },
+    {
+      "id": "6385da2c74a7333b865570eb",
+      "name": "38 rue des Martyrs",
+      "slug": "38-rue-des-martyrs-paris",
+      "lastUpdated": "2025-11-06T17:32:55.833Z",
+      "lastPublished": "2025-11-06T17:32:55.833Z"
+    },
+    {
+      "id": "64e375a937725bb5283d5315",
+      "name": "72 rue de la verrerie",
+      "slug": "pop-up-shop-verrerie-street",
+      "lastUpdated": "2025-11-06T17:32:55.819Z",
+      "lastPublished": "2025-11-06T17:32:55.819Z"
+    },
+    {
+      "id": "60c9ffe3d9a628a770574339",
+      "name": "66 rue Legendre",
+      "slug": "66-legendre",
+      "lastUpdated": "2025-11-06T17:32:55.832Z",
+      "lastPublished": "2025-11-06T17:32:55.832Z"
+    },
+    {
+      "id": "67f7ee1d3d870473af801b38",
+      "name": "6 rue Yves Toudic",
+      "slug": "6-yves-toudic",
+      "lastUpdated": "2025-11-06T17:32:55.822Z",
+      "lastPublished": "2025-11-06T17:32:55.822Z"
+    },
+    {
+      "id": "60c9a8202c819b0f447b820f",
+      "name": "119 Vieille du Temple ",
+      "slug": "119-vieille-du-temple-paris",
+      "lastUpdated": "2025-11-06T17:32:55.835Z",
+      "lastPublished": "2025-11-06T17:32:55.835Z"
+    },
+    {
+      "id": "5fdfeed248b609e0c9c2df65",
+      "name": "15 Debelleyme",
+      "slug": "15-rue-debelleyme-paris",
+      "lastUpdated": "2025-11-06T17:32:55.821Z",
+      "lastPublished": "2025-11-06T17:32:55.821Z"
+    },
+    {
+      "id": "66cee485b65cea8113ac353c",
+      "name": "37 rue de Rivoli",
+      "slug": "37-rue-rivoli",
+      "lastUpdated": "2025-11-06T17:32:55.818Z",
+      "lastPublished": "2025-11-06T17:32:55.818Z"
+    },
+    {
+      "id": "6527a449dd793c0f745fdbe1",
+      "name": "9 rue Commines",
+      "slug": "pop-up-shop-9-commines-street",
+      "lastUpdated": "2025-11-06T17:32:55.816Z",
+      "lastPublished": "2025-11-06T17:32:55.816Z"
+    }
+  ]
+}

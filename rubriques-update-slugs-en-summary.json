@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-06T17:44:00.898Z",
+  "collectionId": "5fdfeed248b609fd1ec2de19",
+  "collectionName": "Rubriques",
+  "localeId": "690b2acd93972e10247b6eb1",
+  "localeName": "English (EN)",
+  "totalUpdated": 3,
+  "updatedItems": [
+    {
+      "id": "605a32f3f56b0201aa5813bf",
+      "name": "Nos ressources",
+      "slug": "our-ressources"
+    },
+    {
+      "id": "5fdfeed248b6092f1cc2e14b",
+      "name": "Nos rencontres",
+      "slug": "our-encounters"
+    },
+    {
+      "id": "5fdfeed248b6092312c2e07e",
+      "name": "Tendances retail",
+      "slug": "retail-trends"
+    }
+  ]
+}

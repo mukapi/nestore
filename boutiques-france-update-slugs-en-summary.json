@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-11-06T17:37:45.594Z",
+  "collectionId": "60c9c68af21f285a7d4adb9b",
+  "collectionName": "Boutiques Frances",
+  "localeId": "690b2acd93972e10247b6eb1",
+  "localeName": "English (EN)",
+  "totalUpdated": 1,
+  "updatedItems": [
+    {
+      "id": "64dc927da158e1aa57f4c906",
+      "name": "Nantes, Passage Pommeraye",
+      "slug": "nantes-passage-pommeraye",
+      "lastUpdated": "2025-11-06T17:37:37.807Z",
+      "lastPublished": "2025-11-06T17:37:37.807Z"
+    }
+  ]
+}

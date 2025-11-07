@@ -1,0 +1,185 @@
+{
+  "timestamp": "2025-11-06T17:40:16.564Z",
+  "collectionId": "5fdfeed248b60975cdc2de1a",
+  "collectionName": "Références",
+  "localeId": "690b2acd93972e10247b6eb1",
+  "localeName": "English (EN)",
+  "totalUpdated": 25,
+  "updatedItems": [
+    {
+      "id": "5fdfeed248b609a77bc2e05c",
+      "name": "Lenôtre",
+      "slug": "ephemeral-pastry-lenotre",
+      "lastUpdated": "2025-11-06T17:40:06.657Z",
+      "lastPublished": "2025-11-06T17:40:06.657Z"
+    },
+    {
+      "id": "63c6a91c628abd2396c93347",
+      "name": "What Matters",
+      "slug": "popup-store-what-matters",
+      "lastUpdated": "2025-11-06T17:40:06.659Z",
+      "lastPublished": "2025-11-06T17:40:06.659Z"
+    },
+    {
+      "id": "5fdfeed248b60980cbc2e049",
+      "name": "Les Petits Raffineurs",
+      "slug": "popup-store-les-petits-raffineurs",
+      "lastUpdated": "2025-11-06T17:40:06.677Z",
+      "lastPublished": "2025-11-06T17:40:06.677Z"
+    },
+    {
+      "id": "6560b6322fc8866e8ba4b9b0",
+      "name": "Balzac",
+      "slug": "balzac-christmas",
+      "lastUpdated": "2025-11-06T17:40:06.651Z",
+      "lastPublished": "2025-11-06T17:40:06.651Z"
+    },
+    {
+      "id": "647edd90987028af76603a9d",
+      "name": "Mirae",
+      "slug": "popup-store-mirae",
+      "lastUpdated": "2025-11-06T17:40:06.654Z",
+      "lastPublished": "2025-11-06T17:40:06.654Z"
+    },
+    {
+      "id": "64abcfc027698decdba3c5b9",
+      "name": "Alain Milliat",
+      "slug": "popup-store-alain-milliat",
+      "lastUpdated": "2025-11-06T17:40:06.662Z",
+      "lastPublished": "2025-11-06T17:40:06.662Z"
+    },
+    {
+      "id": "5fdfeed248b60925c4c2e010",
+      "name": "Meuf Paris",
+      "slug": "popup-store-meuf-paris",
+      "lastUpdated": "2025-11-06T17:40:06.674Z",
+      "lastPublished": "2025-11-06T17:40:06.674Z"
+    },
+    {
+      "id": "63e27b503ec08914bb127d9c",
+      "name": "The French Vikings",
+      "slug": "popup-store-the-french-vikings",
+      "lastUpdated": "2025-11-06T17:40:06.669Z",
+      "lastPublished": "2025-11-06T17:40:06.669Z"
+    },
+    {
+      "id": "657ae82d71736eaabc282566",
+      "name": "Asphalte",
+      "slug": "pop-up-shop-asphalte",
+      "lastUpdated": "2025-11-06T17:40:06.672Z",
+      "lastPublished": "2025-11-06T17:40:06.672Z"
+    },
+    {
+      "id": "646f9a0c1f546e9b56ad88a6",
+      "name": "Pauème",
+      "slug": "popup-store-paueme",
+      "lastUpdated": "2025-11-06T17:40:06.666Z",
+      "lastPublished": "2025-11-06T17:40:06.666Z"
+    },
+    {
+      "id": "63774705ca9a16e5e49163c4",
+      "name": "Make my Lemonade",
+      "slug": "popup-shop-make-my-lemonade",
+      "lastUpdated": "2025-11-06T17:40:06.680Z",
+      "lastPublished": "2025-11-06T17:40:06.680Z"
+    },
+    {
+      "id": "5fdfeed248b609f481c2de94",
+      "name": "Maison Dorée",
+      "slug": "popup-store-maison-doree",
+      "lastUpdated": "2025-11-06T17:40:06.685Z",
+      "lastPublished": "2025-11-06T17:40:06.685Z"
+    },
+    {
+      "id": "5fdfeed248b6093f41c2de1e",
+      "name": "Wilo & Grove",
+      "slug": "popup-store-wilo-grove",
+      "lastUpdated": "2025-11-06T17:40:06.688Z",
+      "lastPublished": "2025-11-06T17:40:06.688Z"
+    },
+    {
+      "id": "5fdfeed248b609164ac2de6c",
+      "name": "Les Raffineurs",
+      "slug": "popup-store-les-raffineurs",
+      "lastUpdated": "2025-11-06T17:40:06.683Z",
+      "lastPublished": "2025-11-06T17:40:06.683Z"
+    },
+    {
+      "id": "5fdfeed248b6092494c2e036",
+      "name": "By Charlot",
+      "slug": "popup-store-by-charlot",
+      "lastUpdated": "2025-11-06T17:40:06.691Z",
+      "lastPublished": "2025-11-06T17:40:06.691Z"
+    },
+    {
+      "id": "62c7f68e3e872ad8bf4316d4",
+      "name": "Apnée Swimwear",
+      "slug": "popup-store-apnee",
+      "lastUpdated": "2025-11-06T17:40:06.693Z",
+      "lastPublished": "2025-11-06T17:40:06.693Z"
+    },
+    {
+      "id": "64103f3db3ec7a80455a8e33",
+      "name": "Tailleur 17h10",
+      "slug": "popup-store-17h10",
+      "lastUpdated": "2025-11-06T17:40:06.705Z",
+      "lastPublished": "2025-11-06T17:40:06.705Z"
+    },
+    {
+      "id": "5fdfeed248b609ff2bc2dea7",
+      "name": "Mackeene",
+      "slug": "popup-store-mackeene",
+      "lastUpdated": "2025-11-06T17:40:06.696Z",
+      "lastPublished": "2025-11-06T17:40:06.696Z"
+    },
+    {
+      "id": "62ac6dc509e5525df104d97f",
+      "name": "Victoria France",
+      "slug": "popup-store-victoria-france",
+      "lastUpdated": "2025-11-06T17:40:06.699Z",
+      "lastPublished": "2025-11-06T17:40:06.699Z"
+    },
+    {
+      "id": "62eb80bb0a395824381197d7",
+      "name": "Cometh",
+      "slug": "event-cometh",
+      "lastUpdated": "2025-11-06T17:40:06.702Z",
+      "lastPublished": "2025-11-06T17:40:06.702Z"
+    },
+    {
+      "id": "5fdfeed248b609261ec2e06c",
+      "name": "Anja",
+      "slug": "popup-store-anja",
+      "lastUpdated": "2025-11-06T17:40:06.708Z",
+      "lastPublished": "2025-11-06T17:40:06.708Z"
+    },
+    {
+      "id": "628396b5389b527f416eae75",
+      "name": "Ulé by Shiseido",
+      "slug": "popup-store-ule-by-shiseido",
+      "lastUpdated": "2025-11-06T17:40:06.711Z",
+      "lastPublished": "2025-11-06T17:40:06.711Z"
+    },
+    {
+      "id": "64539f61248dd570fb312401",
+      "name": "Berthie",
+      "slug": "popup-store-berthie",
+      "lastUpdated": "2025-11-06T17:40:06.717Z",
+      "lastPublished": "2025-11-06T17:40:06.717Z"
+    },
+    {
+      "id": "5fdfeed248b609f0d2c2e06d",
+      "name": "Ysé",
+      "slug": "popup-store-yse",
+      "lastUpdated": "2025-11-06T17:40:06.714Z",
+      "lastPublished": "2025-11-06T17:40:06.714Z"
+    },
+    {
+      "id": "5fdfeed248b60949b6c2de4c",
+      "name": "We are knitters",
+      "slug": "popup-store-we-are-knitters",
+      "lastUpdated": "2025-11-06T17:40:06.720Z",
+      "lastPublished": "2025-11-06T17:40:06.720Z"
+    }
+  ]
+}

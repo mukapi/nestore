@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-06T17:42:42.130Z",
+  "collectionId": "5fdfeed248b6091ea8c2de1d",
+  "collectionName": "Tags",
+  "localeId": "690b2acd93972e10247b6eb1",
+  "localeName": "English (EN)",
+  "totalUpdated": 5,
+  "updatedItems": [
+    {
+      "id": "605a305ce7596d3718daab3f",
+      "name": "Digitalisation & omnicanalité",
+      "slug": "digitalisation-and-omnichannel"
+    },
+    {
+      "id": "5fdfeed248b609d352c2e11a",
+      "name": "Responsabilité et impact",
+      "slug": "sustainability-and-brand-impact"
+    },
+    {
+      "id": "5fdfeed248b6095c36c2e0fb",
+      "name": "Technologie & data",
+      "slug": "technology-and-data"
+    },
+    {
+      "id": "5fdfeed248b6090d5dc2e0dd",
+      "name": "Expérience client",
+      "slug": "customer-experience"
+    },
+    {
+      "id": "5fdfeed248b609a7e2c2e0bc",
+      "name": "Pop-up store & point de vente",
+      "slug": "pop-up-store-and-retail-space"
+    }
+  ]
+}
